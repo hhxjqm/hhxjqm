@@ -1,5 +1,5 @@
 - 👋 Hi, I’m HuanShiuan Huang
-- 👀 I’m interested in Java C/C++ 
+- 👀 I’m interested in Java C/C++ Ruby Ocaml
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +V HHX-JQM
