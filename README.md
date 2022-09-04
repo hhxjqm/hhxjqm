@@ -1,6 +1,6 @@
-- 👋 Hi, I’m HuanShiuan Huang
-- 👀 I’m interested in Java C/C++ Ruby Ocaml
-- 🌱 I’m currently learning C
+- 👋 Hi, I’m Marco Huang
+- 👀 I’m interested in Java C/C++ Ruby Ocaml Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +V HHX-JQM
 
